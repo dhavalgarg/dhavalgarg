@@ -1,6 +1,8 @@
 
 ### Hey there, I'm Dhaval :grin:
-I completed my undergrad studies from SRM University. I love handling data to see what it unravels. I will be completing numerous projects in the comiing time to gain practical experience and also help you guys if you visit here.
+I completed my undergrad studies from SRM University. I love handling data to see what it unravels. I will be completing numerous projects in the coming time to gain practical experience and upload them here. 
+
+If you need any help you can always contact me.
 
 ***
 
