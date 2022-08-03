@@ -1,6 +1,6 @@
 
 ### Hey there, I'm Dhaval :grin:
-I am an Undergraduate student in SRM Institute of Science and Technology. I am in my Final year and I am working to improve my profile. I love handling data to see what it unravels.
+I completed my undergrad studies from SRM University. I love handling data to see what it unravels. I will be completing numerous projects in the comiing time to gain practical experience and also help you guys if you visit here.
 
 ***
 
