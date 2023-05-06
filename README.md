@@ -1,8 +1,7 @@
 
 ### Hey there, I'm Dhaval :grin:
-I completed my undergrad studies from SRM University. I love handling data to see what it unravels. I will be completing numerous projects in the coming time to gain practical experience and upload them here. 
+I am studying MS in Data Science at University of Rochester. I will be uploading projects here.
 
-If you need any help you can always contact me.
 
 ***
 
