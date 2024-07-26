@@ -1,6 +1,6 @@
 
 ### Hey there, I'm Dhaval :grin:
-I am studying MS in Data Science at University of Rochester. I love to deal with data. It can be in creating pipelines, analyzing data, predicting using data etc. I will use this platform to showcase some of the projects I have worked on. Feel free to contact me if you have any pointers or doubts.
+I am a MS in Data Science at University of Rochester graduate. I love to deal with data. It can be in creating pipelines, analyzing data, predicting using data etc. I will use this platform to showcase some of the projects I have worked on. Feel free to contact me if you have any pointers or doubts.
 
 
 
