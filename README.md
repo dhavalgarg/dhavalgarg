@@ -7,7 +7,7 @@ I am a MS in Data Science at University of Rochester graduate. I have been in th
 ***
 
 ### Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-[<img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/dhavalgargds/) | [<img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Gmail logo" height="32">](mailto:dhaval.garg@outlook.com) 
+[<img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Gmail logo" height="32">](mailto:dhaval.garg@outlook.com) 
 
 ***
 
